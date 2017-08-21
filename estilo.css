@@ -1,0 +1,13 @@
+* {
+	box-sizing: border-box;
+	font-family: 'EB Garamond', serif;
+}
+
+.cabecalho{
+	background-color: hsla(277, 45%, 45%, 1);
+}
+
+.titulo-loja{
+	margin-left: 15px;
+	font-size: 32px;
+}
